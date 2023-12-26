@@ -1,0 +1,6 @@
+C:\Users\hoo\Desktop\injoonbot.exe
+C:\Users\hoo\Desktop\injoonbot.dll
+C:\Users\hoo\Desktop\injoonbot.deps.json
+C:\Users\hoo\Desktop\injoonbot.runtimeconfig.json
+C:\Users\hoo\Desktop\injoonbot.pdb
+C:\Users\hoo\Desktop\HtmlAgilityPack.dll

@@ -1,0 +1,12 @@
+C:\Users\hoo\Desktop\injoonbot\injoonbot.exe
+C:\Users\hoo\Desktop\injoonbot\selenium-manager\linux\selenium-manager
+C:\Users\hoo\Desktop\injoonbot\selenium-manager\macos\selenium-manager
+C:\Users\hoo\Desktop\injoonbot\selenium-manager\windows\selenium-manager.exe
+C:\Users\hoo\Desktop\injoonbot\injoonbot.dll
+C:\Users\hoo\Desktop\injoonbot\injoonbot.deps.json
+C:\Users\hoo\Desktop\injoonbot\injoonbot.runtimeconfig.json
+C:\Users\hoo\Desktop\injoonbot\injoonbot.pdb
+C:\Users\hoo\Desktop\injoonbot\HtmlAgilityPack.dll
+C:\Users\hoo\Desktop\injoonbot\Newtonsoft.Json.dll
+C:\Users\hoo\Desktop\injoonbot\WebDriver.Support.dll
+C:\Users\hoo\Desktop\injoonbot\WebDriver.dll
